@@ -5,6 +5,8 @@ In this paper, we examine the effect of misalignment angle on cluster-based powe
 
 Tags: 60 GHz mmWave band, misalignment angle, Saleh-Valenzuela model, power delay profile.
 
+
+
 ## File descriptions:
 1. main_generator: Generate the PDPs for O2I scenario
 2. padp_plot: Generates the Angular PDPs for O2I scenario
@@ -14,3 +16,4 @@ Tags: 60 GHz mmWave band, misalignment angle, Saleh-Valenzuela model, power dela
 5. dataset1pdpsim: Calculates the SV parameters for each misalignment range in O2I and simulates a PDP
 6. dataset3pdpsim: Calculates the SV parameters for each misalignment range in O2O and simulates a PDP
 
+## Helpher Function descriptions
