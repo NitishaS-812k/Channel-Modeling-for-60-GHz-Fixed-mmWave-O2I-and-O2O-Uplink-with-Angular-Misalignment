@@ -3,7 +3,7 @@
 ## Abstract: 
 In this paper, we examine the effect of misalignment angle on cluster-based power delay profile modeling for a 60 GHz millimeter-wave (mmWave) uplink. The analysis uses real-world data, where fixed uplink scenarios are realized by placing the transmitter at ground level and the receiver at the building level. Both outdoor-to-indoor (O2I) and outdoor-to-outdoor (O2O) scenarios are studied. Using the misalignment angle and the scenario as inputs, we propose a statistical power delay profile (PDP) simulation algorithm based on the Saleh-Valenzuela (SV) model. Different goodness-of-fit metrics reveal that our proposed algorithm is robust to both O2I and O2O scenarios and can approximate the PDPs fairly well, even in case of misalignment. 
 
-### Tags: 60 GHz mmWave band, misalignment angle, Saleh-Valenzuela model, power delay profile.
+Tags: 60 GHz mmWave band, misalignment angle, Saleh-Valenzuela model, power delay profile.
 
 ## File descriptions:
 1. main_generator: Generate the PDPs for O2I scenario
