@@ -5,7 +5,7 @@ function [fr,gof] = clusterslope(cluster, time, ft, opts)
 %opts: fitoptions
 
 idxcl = find(cluster == -Inf);
-weights = (abs(1./cluster)); %idk some stats website said this works and it does
+weights = (abs(1./cluster)); 
 t = find(weights == Inf);
 weights(t) = 0.5;
 opts.Exclude = idxcl;  %excluding these indices because they're zero
