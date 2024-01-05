@@ -16,4 +16,4 @@ Tags: 60 GHz mmWave band, misalignment angle, Saleh-Valenzuela model, power dela
 5. dataset1pdpsim: Calculates the SV parameters for each misalignment range in O2I and simulates a PDP
 6. dataset3pdpsim: Calculates the SV parameters for each misalignment range in O2O and simulates a PDP
 
-## Helpher Function descriptions
+
